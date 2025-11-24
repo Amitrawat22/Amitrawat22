@@ -21,7 +21,7 @@ I love building efficient and scalable solutions with a strong interest in **com
 
 * Git & GitHub
 * VS Code, IntelliJ, Visual Studio
-* .NET, Node.js
+* .NET
 
 ---
 
@@ -68,7 +68,7 @@ I love building efficient and scalable solutions with a strong interest in **com
 
 ## 📬 Connect With Me
 
-* 💼 LinkedIn: Coming soon
+* 💼 **LinkedIn**: [https://www.linkedin.com/in/amit-rawat-2226621b4/](https://www.linkedin.com/in/amit-rawat-2226621b4/)
 * 🌐 Portfolio: Coming soon
 
 ---
