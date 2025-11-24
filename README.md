@@ -41,9 +41,13 @@ I love building efficient and scalable solutions with a strong interest in **com
 
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/AMIT_RAWAT193?theme=dark\&font=Baloo\&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/AMIT_RAWAT193?theme=dark&font=Baloo&ext=heatmap)
+
+![LeetCode Rating](https://img.shields.io/badge/LeetCode-1800+-orange?style=for-the-badge&logo=leetcode)
+![Problems Solved](https://img.shields.io/badge/Solved-500+-brightgreen?style=for-the-badge&logo=leetcode)
 
 </div>
+
 
 ---
 
