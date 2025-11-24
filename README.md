@@ -36,18 +36,17 @@ I love building efficient and scalable solutions with a strong interest in **com
 </div>
 
 ---
-
 ## 🧩 LeetCode Progress
 
 <div align="center">
 
-<!-- Dynamic card -->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/AMIT_RAWAT193?theme=dark&font=Baloo&ext=heatmap)
 
-<!-- Dynamic badges -->
-![Rating](https://github-readme-stats.vercel.app/api/leetcode?username=AMIT_RAWAT193&theme=tokyonight&show_icons=true)
+![LeetCode Rating](https://github.com/your-username/your-repo/raw/main/leetcode-rating.svg)
+![Problems Solved](https://github.com/your-username/your-repo/raw/main/leetcode-solved.svg)
 
 </div>
+
 
 
 ---
