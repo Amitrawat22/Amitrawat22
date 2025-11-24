@@ -1,0 +1,14 @@
+name: Update LeetCode Stats
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  leetcode:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lmxsf/leetcode-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          username: "AMIT_RAWAT193"
