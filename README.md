@@ -37,7 +37,6 @@ Git & GitHub &nbsp; | &nbsp; VS Code, IntelliJ, Visual Studio &nbsp; | &nbsp; .N
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amitrawat22&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amitrawat22&layout=compact&theme=tokyonight)
 
 </div>
 
